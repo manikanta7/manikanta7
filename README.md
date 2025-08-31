@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ycmanikanta7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ycmanikanta7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chowdary manikanta yarramaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chowdary manikanta yarramaneni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chowdary-manikanta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chowdary manikanta yarramaneni" height="30" width="40" /></a>
 <a href="https://fb.com/manikanta.yarramaneni.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manikanta.yarramaneni.7" height="30" width="40" /></a>
 <a href="https://instagram.com/yc_manikanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yc_manikanta" height="30" width="40" /></a>
 <a href="https://medium.com/@chowdarymanikantayarramaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chowdarymanikantayarramaneni" height="30" width="40" /></a>
